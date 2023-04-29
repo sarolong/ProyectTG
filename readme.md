@@ -11,11 +11,7 @@ Python >3.11. with `venv`
 pip install virtualenv
 virtualenv venv
 .\venv\Scripts\activate.bat
-pip install flask
-pip install flask-sqlalchemy
-pip install flask-marshmallow
-pip install marshmallow-sqlalchemy
-pip install mysqlclient
+pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy mysqlclient
 
 ## Pruebas
 
