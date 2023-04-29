@@ -6,7 +6,7 @@ Proyecto construido bajo el framework de Python Flask , utilizando SQlalchemy OR
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 
-Python >3.11. with `venv`
+Python >3.11.3 with `venv`
 ---------------------------------------
 pip install virtualenv
 virtualenv venv
