@@ -15,6 +15,8 @@ pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy mysq
 
 ## Pruebas
 
+Archivo ejecutable index.py 
+
 en el archivo app.py se encuentran las routes 
 
 _Para add Usuario : https://localhost:5000/addUser  (recibe datos mediante un form-data METODO POST) con atributos:_
