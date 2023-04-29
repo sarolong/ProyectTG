@@ -41,4 +41,4 @@ _Para Cancelar Orden : https://localhost:5000/CancelOrder/<id>  --> se valida si
 
 ## Autor
 
-* **Sergio Andres Rolong Sandoval** - *Trabajo Inicial* - [afgarcia](https://github.com/afgarcia)
+* **Sergio Andres Rolong Sandoval** 
